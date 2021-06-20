@@ -35,6 +35,8 @@ php artisan view:clear
 
 composer dumpautoload -o
 
+Project folder\bootstrap\cache - remove files
+
 composer install --ignore-platform-reqs
 or
 composer update --ignore-platform-reqs
